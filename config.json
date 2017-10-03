@@ -1,0 +1,15 @@
+{
+    "title": "Gallery A",
+    "baseURL": "https:\/\/www.asdf.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759037",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "asdf.com"
+    }
+}
